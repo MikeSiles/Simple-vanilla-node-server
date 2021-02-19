@@ -1,7 +1,7 @@
 # The Simplest Node Server You'll Ever See
 This is a node server that delivers one page.
 
-That's it.
+That's all there is.
 
 It does not use express, it does not use some cool new library.
 
